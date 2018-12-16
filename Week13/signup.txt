@@ -1,0 +1,7 @@
+请求url：http://localhost:8080/signup.jsp
+参数：username，password
+username：用户名 password用户密码
+请求方式：Post
+注册成功返回：注册成功
+如果username为空返回：用户名不能为空;
+如果用户名被注册返回：用户名已经被注册
