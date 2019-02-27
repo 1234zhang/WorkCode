@@ -1,0 +1,49 @@
+#newCD {
+    width: 689;
+    height: 243;
+    
+    position: relative;
+    top: 523;
+    left: 197;
+
+}
+.newCD_title {
+    width: 689;
+    height: 35;
+}
+.newCD_info {
+    width: 687;
+    height: 186;
+}
+.redLine_2 {
+    width: 650;
+    height: 1;
+    background-color: red;
+}
+.newCD_title_text {
+    position: relative;
+    bottom: 515;
+}
+.newCD_li {
+    width: 118;
+    height: 150;
+    background-color: aliceblue;
+    list-style: none;
+    margin-right: 20;
+}
+.newCD_ul {
+    display:flex;
+    align-content: center;
+    position: relative;
+    bottom: 460;
+}
+.newCD_li_a {
+    font-size: 12;
+    color: #000;
+}
+.newCD_li_b {
+    font-size: 12;
+    color: #666;
+}
+a{text-decoration:none;
+    color:inherit;}

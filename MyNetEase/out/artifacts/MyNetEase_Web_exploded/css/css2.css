@@ -1,0 +1,45 @@
+[hidefocus]{
+    outline: none;
+}
+
+#gundong {
+    width: 1440;
+    height: 336;
+    background-color: aqua;
+    display: flex;
+    align-items: center;
+    background: url("../img/lunbo1_x.png")
+}
+.lunbo {
+    float: left;
+    
+
+}
+.down_p {
+    width: 254;
+    height: 336;
+    background-color: brown;
+}
+.down {
+    float: left;
+    width: 254;
+    height: 336;
+    
+}
+/* .down_low {
+    width: 254;
+    height: 39;
+} */
+.lunbo_zuo {
+    margin-left: 160;
+    width: 37;
+    height: 63;
+    background-color: blue;
+    cursor:pointer;
+}
+.lunbo_you {
+    width: 37;
+    height: 63;
+    background-color: blue;
+    cursor:pointer;
+}

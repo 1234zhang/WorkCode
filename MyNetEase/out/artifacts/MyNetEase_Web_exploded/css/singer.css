@@ -1,0 +1,126 @@
+.singer {
+    width: 709;
+    height: 2000;
+    
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center
+}
+.singer_all {
+    width: 640;
+    height: 1900;
+    
+}
+.singer_top{
+    width: 640;
+    height: 331;
+
+}
+.singer_top_h2 {
+    float: left;
+    color: #000;
+}
+.singer_top_h3 {
+    float: left;
+    color: #666;
+    font-size: 15;
+    position: relative;
+    top: 10;
+    margin-left: 10
+}
+.singer_top_img {
+    width: 640;
+    height: 300;
+    background: url("../img/zhm.png") no-repeat;
+    position: relative;
+    top: 31;
+}
+.singer_list {
+    width: 640;
+    height: 39;
+}
+.singer_list_ul {
+    width: 640;
+    height: 39;
+    margin-left: -40
+}
+
+
+
+
+
+
+
+.singer_list_li {
+    background: url("../img/tab.png?24aad15cd0425597218d3365083291b9")no-repeat;
+    width: 136;
+    height: 39;
+    list-style: none;
+    float: left;
+}
+.singer_list_a{
+   
+    
+}
+.singer_list_a_redline {
+    width: 136;
+    height: 1;
+    background-color: red;
+}
+.singer_list_rmzp {
+    position: relative;
+    left: 30;
+    top: 5
+}
+.singer_list_li_line1{
+    width: 1;
+    height: 39;
+    background-color: rgb(204, 204, 204);
+    float: left;
+}
+
+
+
+
+.singer_music{
+    width: 640;
+    height: 1500;
+    
+}
+.singer_music_table{
+    width: 640;
+    height: 1500;
+    
+}
+.singer_music_table_tr{
+    width: 640;
+   
+}
+.singer_music_table_td1{
+    width: 94;
+    height:30;
+}
+.singer_music_table_td1_hd{
+    width: 74;
+    height: 18;
+}
+.singer_music_table_td1_hd_sp{
+    color: #666;
+    font-size: 10
+}
+.singer_music_table_td1_hd_img{
+    float: right;
+}
+.singer_music_table_td2{
+    width: 329;
+    height: 30;
+}
+.singer_music_table_td3{
+    width: 89;
+    height: 30;
+}
+.singer_music_table_td4{
+    width: 128;
+    height: 30;
+}

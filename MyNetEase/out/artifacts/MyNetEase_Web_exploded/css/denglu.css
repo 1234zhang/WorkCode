@@ -1,0 +1,433 @@
+#signIn {
+    position: absolute;
+    left: 450;
+    top: 200;
+    z-index: 10;
+    display: none;
+    width: 530;
+    height: 322;
+    background-color: salmon;
+}
+
+.signIn_top {
+    width: 100%;
+    height: 38;
+    background-color: black;
+    display: flex;
+    align-items:center;
+    text-indent: 20;
+    color: white;
+}
+.guan {
+    position: relative;
+    left: 450;
+    float: right;
+    cursor:pointer;
+    background: url("../img/guanbi.png") no-repeat;
+}
+.signIn_low{
+    width: 100%;
+    height: 286;
+    background-color: white;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+}
+.signIn_btn{
+    width: 244;
+    height: 31;
+    cursor:pointer;
+}
+.psignIn_btn{
+    width: 244;
+    height: 31;
+    cursor:pointer;
+}
+.signUp_btn{
+    width: 244;
+    height: 31;
+    cursor:pointer;
+    text-decoration: none;
+}
+.signIn_low_all_zuo {
+    width: 300;
+    height: 100;
+    
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+   
+    
+}
+.signIn_low_all_you{
+    width: 187;
+    height: 222;
+}
+.signIn_qq {
+    width: 187;
+    height: 100;
+    display: flex;
+    align-items: center ;
+    justify-content: center
+}
+.signIn_qq_logo {
+    width: 38;
+    height: 38;
+   
+}
+.qq_denhlu {
+    width: 38;
+    height: 38;
+    
+}
+.signIn_qq_text{
+    font-size: 10;
+    outline-style: none;
+    margin-left: 10;
+    text-decoration: none;
+}
+
+.signIn_low_zuo {
+    width: 300;
+    height: 286;
+    text-align: center;
+ 
+   
+}
+.platform {
+    margin: 0 auto;
+    margin-top: 50;
+}
+.signIn_weibo{
+    width: 187;
+    height: 100;
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+.signIn_qq_weibo{
+    width: 38;
+    height: 38;
+   
+}
+.weibo_denhlu {
+    width: 38;
+    height: 38;
+    
+}
+.signIn_weibo_text{
+    font-size: 10;
+    outline-style: none;
+    margin-left: 10;
+    text-decoration: none;
+}
+.signIn_weibo {
+    width: 187;
+    height: 100;
+}
+.longLine {
+    width: 1;
+    height: 250;
+    background-color: gray;
+    margin: 0 auto;
+}
+#signIn_phone {
+    position: absolute;
+    left: 450;
+    top: 200;
+    z-index: 20;
+    width: 530;
+    height: 322;
+    background-color: white;
+    display: none;
+    
+
+}
+.guan_phone {
+    
+    position: relative;
+    left: 400;
+    float: right;
+    cursor:pointer;
+        
+   
+}
+.signIn_low_phone {
+    width: 100%;
+    height: 284;
+    display: flex;
+    justify-content: center;
+    align-self: flex-end;
+}
+.signIn_low_all_1{
+    width: 100%;
+    height: 33%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-indent: -15;
+    
+}
+.signIn_low_all_2{
+    width: 210;
+    height: 80;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;}
+.signIn_low_all_3 {
+    width: 100%;
+    height: 33%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.phoneNumber {
+    width: 150;
+    height: 20;
+    border-style: solid;
+    border-color: grey;
+    border-width: 0.5
+    
+}
+.phonePassword {
+    width: 150;
+    height: 20;
+    border-style: solid;
+    border-color: grey;
+    border-width: 0.5
+}
+
+
+
+
+
+
+
+
+
+#signIn_normal {
+    position: absolute;
+    left: 450;
+    top: 200;
+    z-index: 30;
+    width: 530;
+    height: 322;
+    background-color: white;
+    display: none;
+    
+
+}
+.guan_normal {
+    
+    position: relative;
+    left: 450;
+    float: right;
+    cursor:pointer;
+        
+   
+}
+.signIn_low_normal {
+    width: 100%;
+    height: 284;
+    display: flex;
+    justify-content: center;
+    align-self: flex-end;
+}
+.signIn_low_all_1_normal{
+    width: 210;
+    height: 80;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    
+    
+    
+}
+.normalNumber_tips {
+    font-size: 12;
+    color: transparent;
+    
+  
+  
+}
+.normalPassword_tips {
+    font-size: 12;
+    color: transparent;
+    
+  
+  
+}
+.signUpNumber {
+    width: 150;
+    height: 20;
+    border-style: solid;
+    border-color: grey;
+    border-width: 0.5;
+    color: gray;
+}
+.normalNumber {
+    width: 150;
+    height: 20;
+    border-style: solid;
+    border-color: grey;
+    border-width: 0.5;
+    color: gray;
+    
+}
+.normalPassword {
+    width: 150;
+    height: 20;
+    border-style: solid;
+    border-color: grey;
+    border-width: 0.5
+}
+
+
+
+
+
+
+
+#signUp_normal {
+    position: absolute;
+    left: 450;
+    top: 200;
+    z-index: 30;
+    width: 530;
+    height: 322;
+    background-color: white;
+    display: none;
+    
+
+}
+.signUp_top {
+    width: 100%;
+    height: 38;
+    background-color: black;
+    display: flex;
+    align-items:center;
+    text-indent: 20;
+    color: white;
+}
+.guan_normal {
+    
+    position: relative;
+    left: 450;
+    float: right;
+    cursor:pointer;
+        
+   
+}
+.signUp_low_normal {
+    width: 100%;
+    height: 284;
+    display: flex;
+    justify-content: center;
+    align-self: flex-end;
+}
+.signUp_low_all_1{
+    width: 530;
+    height: 20%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+    
+    
+}
+.signUp_low_all_5 {
+    width: 530;
+    height: 20%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-indent: -5;
+   
+}
+.signUp_low_all_2 {
+    width: 530;
+    height: 20%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-indent: -5;
+   
+}
+.signUp_low_all_3 {
+    width: 530;
+    height: 20%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-indent: -40;
+}
+
+.signUp_low_all_4 {
+    width: 530;
+    height: 20%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+.signUpNumber {
+    width: 150;
+    height: 20;
+    color: #666;
+}
+.signUpId {
+    width: 150;
+    height: 20;
+    border-style: solid;
+    border-color: grey;
+    border-width: 0.5;
+    color: #666;
+}
+
+.signUpPassword_1 {
+    width: 150;
+    height: 20;
+    border-style: solid;
+    border-color: grey;
+    border-width: 0.5;
+    color: #666;
+}
+.signUpPassword_2 {
+    width: 150;
+    height: 20;
+    border-style: solid;
+    border-color: grey;
+    border-width: 0.5;
+    color: #666;
+}
+.signUpPassword_1_tip {
+    color: red;
+    font-size: 14;
+    position: relative;
+    left: 120;
+}
+.signUpPassword_2_tip {
+    color: red;
+    font-size: 14;
+    position: relative;
+    left: 120;
+}
+.signUpNumber_tip {
+    color: red;
+    font-size: 14;
+    position: relative;
+    left: 120   ;
+}
+.addtest108{
+    margin-right: -108
+}
+.addtest110{
+    margin-right: -110
+}
+.addtest98{
+    margin-right: -75
+}

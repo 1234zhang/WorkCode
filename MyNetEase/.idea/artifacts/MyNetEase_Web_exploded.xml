@@ -1,0 +1,25 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="MyNetEase:Web exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/MyNetEase_Web_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="MyNetEase/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="MyNetEase" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: com.google.protobuf:protobuf-java:3.6.1" />
+          <element id="library" level="project" name="Maven: mysql:mysql-connector-java:8.0.14" />
+          <element id="library" level="project" name="Maven: org.json:json:20180813" />
+          <element id="library" level="project" name="Maven: commons-codec:commons-codec:1.11" />
+          <element id="library" level="project" name="Maven: commons-logging:commons-logging:1.2" />
+          <element id="library" level="project" name="Maven: org.apache.httpcomponents:httpclient:4.5.7" />
+          <element id="library" level="project" name="Maven: org.apache.httpcomponents:httpcore:4.4.11" />
+          <element id="library" level="project" name="Maven: org.apache.oltu.oauth2:org.apache.oltu.oauth2.client:1.0.2" />
+          <element id="library" level="project" name="Maven: org.apache.oltu.oauth2:org.apache.oltu.oauth2.common:1.0.2" />
+          <element id="library" level="project" name="Maven: org.slf4j:slf4j-api:1.7.7" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
